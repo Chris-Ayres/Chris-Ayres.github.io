@@ -1,0 +1,23 @@
+name: "Chris Ayres"
+output_dir: "."
+navbar:
+  title: "Chris Ayres"
+  left:
+    text: "Home"
+    href: home.html
+    text: "Projects"
+    href: projects.html
+    text: "Analysis"
+    href: analysis.html
+    text: "Updates"
+    href: updates.html
+ right:
+    - icon: fa-envelope fa-lg
+      href: mailto:chrisayres1127@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/Chris-Ayres
+    - icon: fa-linkedin fa-lg
+      href: www.linkedin.com/in/christopher-ayres-344896238
+output:
+  html_document:
+    theme: paper
