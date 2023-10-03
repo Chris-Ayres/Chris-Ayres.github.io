@@ -3,14 +3,8 @@ output_dir: "."
 navbar:
   title: "Chris Ayres"
   left:
-    text: "Home"
-    href: home.html
-    text: "Projects"
-    href: projects.html
-    text: "Analysis"
-    href: analysis.html
-    text: "Updates"
-    href: updates.html
+    text: "About"
+    href: About.html
  right:
     - icon: fa-envelope fa-lg
       href: mailto:chrisayres1127@gmail.com
