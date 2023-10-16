@@ -8,4 +8,4 @@ output: html_document
 title: “Chris’ Website”
 - - -
 
-Welcome to my page
+Welcome to my page.
