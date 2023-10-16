@@ -1,17 +1,17 @@
 name: "Chris Ayres"
 output_dir: "."
 navbar:
-  title: "Chris Ayres"
-  left:
-    text: "About"
-    href: About.html
- right:
-    - icon: fa-envelope fa-lg
-      href: mailto:chrisayres1127@gmail.com
-    - icon: fa-github fa-lg
-      href: http://github.com/Chris-Ayres
-    - icon: fa-linkedin fa-lg
-      href: www.linkedin.com/in/christopher-ayres-344896238
+    title: "Chris Ayres"
+    left:
+        - text: "About"
+        - href: About.html
+    right:
+        - icon: fa-envelope fa-lg
+          href: mailto:chrisayres1127@gmail.com
+        - icon: fa-github fa-lg
+          href: http://github.com/Chris-Ayres
+        - icon: fa-linkedin fa-lg
+          href: www.linkedin.com/in/christopher-ayres-344896238
 output:
-  html_document:
-    theme: paper
+    html_document:
+        theme: paper
