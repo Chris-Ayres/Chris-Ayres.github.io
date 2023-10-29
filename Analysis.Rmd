@@ -1,0 +1,15 @@
+---
+title: "Analysis"
+author: "Chris Ayres"
+date: "2023-10-29"
+output: html_document
+---
+- - -
+title: "Written Analyses"
+- - -
+
+In my spare time, I have written a few player analyses on my own using data from Fangraphs. I am hoping to be able to write 2-3 per semester in order to gain the experience and skills necessary to be able to analyze/write about any combination of positions and metrics.
+
+Valdimir Guerrero Jr. hitting write-up: https://docs.google.com/document/d/1_uEQ4SbD1U0gOaxi8R2gRwxJazg5xtztLi9ECWqf-Cw/edit?usp=sharing
+
+Joey Wiemer fielding write-up: https://docs.google.com/document/d/1sUJaavPedipBi1_3vwoBpIwT6UXhr9GVJIfUNxberHY/edit?usp=sharing
