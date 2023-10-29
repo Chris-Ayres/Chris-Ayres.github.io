@@ -1,11 +1,11 @@
 ---
-title: "Index"
+title: "Home"
 author: "Chris Ayres"
-date: "2023-10-03"
+date: "2023-10-29"
 output: html_document
 ---
 - - -
 title: “Chris’ Website”
 - - -
 
-Welcome to my page.
+Welcome to my page.I am a junior at the University of Notre Dame double majoring in Business Analytics and Economics with a supplemental major in Theology. From my first five semesters, I have experience using Python, R, SQL, Tableau, and Stata. Currently, I am searching for an internship for Summer 2024 with an MLB team in a Data Analysis role in order to begin a career working in baseball.
