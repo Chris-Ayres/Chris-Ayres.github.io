@@ -8,9 +8,9 @@ navbar:
         - text: "About"
         - href: About.html
         - text: "Projects"
-        - href: projects.html
+        - href: Projects.html
         - text: "Analysis"
-        - href: analysis.html
+        - href: Analysis.html
         
     right:
         - icon: fa-envelope fa-lg
