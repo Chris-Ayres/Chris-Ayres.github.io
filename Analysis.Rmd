@@ -1,12 +1,12 @@
 ---
 title: "Analysis"
 author: "Chris Ayres"
-date: "2023-10-29"
+date: "March 3, 2024"
 output: html_document
 ---
-- - -
-title: "Written Analyses"
-- - -
+---
+Written Analyses
+---
 
 In my spare time, I have written a few player analyses on my own using data from Fangraphs. I am hoping to be able to write 2-3 per semester in order to gain the experience and skills necessary to be able to analyze/write about any combination of positions and metrics.
 
