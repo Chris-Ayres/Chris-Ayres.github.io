@@ -10,3 +10,6 @@ My Projects
 
 xwOBA Predictive Model: For this project, I developed a model to predict the xwOBA for balls in play from the 2020-23 seasons using Launch Angle and Exit Velocity. My initial model was developed from the k-Nearest Neighbors method, but my second and more accurate model was a Random Forest model. 
 https://github.com/Chris-Ayres/xwOBA-Model.git
+
+NBA MVP Predictive Model: For this project, my team and I used R to create a model to predict the NBA MVP based on previous MVP statistics. We experimented with forward, backward, stepwise, PCA, and exhaustive search variable selection, deciding ultimately on the exhaustive model because it had the lowest RMSE. 
+Presentation: https://docs.google.com/presentation/d/1h_Hi3nk9Nqo-JkATGg2a2h5MCFDmkOnaFM5p2jB0Zv8/edit?usp=sharing
