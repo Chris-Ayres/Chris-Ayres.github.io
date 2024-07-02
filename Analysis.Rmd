@@ -1,7 +1,7 @@
 ---
 title: "Analysis"
 author: "Chris Ayres"
-date: "March 3, 2024"
+date: "July 1, 2024"
 output: html_document
 ---
 ---
@@ -16,3 +16,6 @@ Joey Wiemer fielding write-up: https://docs.google.com/document/d/1sUJaavPedipBi
 
 My review of The Book by Tom Tango:
 https://docs.google.com/document/d/1pG5JDXo2R5k4Zyc3ICVrTh4CO8lLH6KoJhD7KoRZ_uQ/edit?usp=sharing
+
+Alec Bohm's success with respect to Brandon Marsh:
+https://docs.google.com/document/d/1fIC7lUYLRlVuRFwd7Ph8Ww095B2asujIIJXvkVn8gA8/edit?usp=sharing
